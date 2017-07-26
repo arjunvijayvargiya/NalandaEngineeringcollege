@@ -6,6 +6,7 @@
 package nalanda.college;
 
 import java.awt.Image;
+import java.util.ArrayList;
 import java.util.Calendar;
 
 /**
@@ -127,4 +128,8 @@ public class Student {
         this.photo = photo;
     }
     
+    public ArrayList<String> coursesTaken(){
+        ArrayList<String> ar = new ArrayList<>();
+        return ar;
+    }
 }

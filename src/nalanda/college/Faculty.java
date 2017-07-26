@@ -50,6 +50,4 @@ public class Faculty {
         this.DOJ = DOJ;
     }
     
-    
-    
 }
